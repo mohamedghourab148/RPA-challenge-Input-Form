@@ -35,7 +35,6 @@ The automation demonstrates robust selector handling, dynamic UI interaction, an
 ```
 /Main.xaml          -> Main workflow
 /Data/Input.xlsx    -> Input data file
-/Screenshots        -> Project screenshots
 /README.md          -> Documentation
 ```
 
@@ -69,14 +68,6 @@ The automation demonstrates robust selector handling, dynamic UI interaction, an
 * Handling dynamic UI elements where positions change after each submission.
 * Reliable selectors using anchors instead of static positions.
 * Maintaining performance while ensuring accuracy.
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
 
 ## 👨‍💻 Author
 
